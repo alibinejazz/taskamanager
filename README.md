@@ -45,9 +45,9 @@ Clean and maintainable code
 
 to run Locally 
 
-clone the git repo 
-and then on terminal write npm i
-then npm start and you're good to go.
+- clone the git repo 
+- on terminal write "npm i"
+- then "npm start" and you're good to go.
 
 or you can have a live version here for the app
 
